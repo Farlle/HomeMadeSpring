@@ -1,0 +1,7 @@
+org\example\model\Car.class
+org\example\annotations\Autowired.class
+org\example\framework\Context.class
+org\example\model\Engine.class
+org\example\Main.class
+org\example\annotations\Component.class
+org\example\model\Body.class
